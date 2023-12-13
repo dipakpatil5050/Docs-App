@@ -22,7 +22,7 @@ function Background() {
       <div
         className="relative w-full h-screen text-white opacity-20 
       flex-wrap
-      flex items-end justify-center bottom-[3%]"
+      flex items-end justify-center bottom-[3%] sm:mb-20 sm:text-sm "
       >
         <h4>
           Design and Developed by &nbsp;
