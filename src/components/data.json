@@ -1,0 +1,32 @@
+[
+  {
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, aliquam.",
+    "fileSize": "0.9mb",
+    "close": false,
+    "tag": { "isOpen": true, "tagTitle": "Download Now", "tagColor": "green" }
+  },
+  {
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, aliquam.",
+    "fileSize": "0.9mb",
+    "close": false,
+    "tag": { "isOpen": true, "tagTitle": "Download Now", "tagColor": "green" }
+  },
+  {
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, aliquam.",
+    "fileSize": "0.9mb",
+    "close": false,
+    "tag": { "isOpen": true, "tagTitle": "Download Now", "tagColor": "blue" }
+  },
+  {
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, aliquam.",
+    "fileSize": "0.9mb",
+    "close": false,
+    "tag": { "isOpen": true, "tagTitle": "Download Now", "tagColor": "blue" }
+  },
+  {
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, aliquam.",
+    "fileSize": "0.9mb",
+    "close": false,
+    "tag": { "isOpen": true, "tagTitle": "Download Now", "tagColor": "blue" }
+  }
+]
